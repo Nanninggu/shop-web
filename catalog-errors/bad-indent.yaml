@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: shop-web
+  description: 쇼핑몰 웹 화면
+spec:
+ type: website
+  lifecycle: production
+  owner: guests
