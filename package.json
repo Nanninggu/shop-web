@@ -1,0 +1,7 @@
+{
+  "name": "shop-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "쇼핑몰 웹 화면 껍데기 (Backstage 강의용 예시)",
+  "scripts": { "start": "node src/server.js" }
+}
